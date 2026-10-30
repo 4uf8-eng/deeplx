@@ -9,10 +9,12 @@
   "compatibility_date": "2025-07-19",
   "kv_namespaces": [
     {
-      "binding": "CACHE_KV"
+      "binding": "CACHE_KV",
+      "id": "773e1c4b7e884adca31fc7d4923ab728"
     },
     {
-      "binding": "RATE_LIMIT_KV"
+      "binding": "RATE_LIMIT_KV",
+      "id": "825381a02b4c4c7c820b1a0737ec4e96"
     }
   ],
   "main": "src/index.ts",
